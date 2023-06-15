@@ -1,0 +1,29 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "{{ site.theme }}";
+
+.site-header {
+  border-top: 5px solid #424242;
+  border-bottom: 2px dotted #e8e8e8;
+}
+
+.site-title {
+      font-size: 36px;
+      font-weight: 400;
+    }
+
+.post-title {
+    font-size: 26px;
+  }
+
+.img {
+      padding-left: 100px;
+      padding-bottom: 100px;
+  }
+
+img[src*='#center'] {
+    display: block;
+    margin: auto;
+    }
