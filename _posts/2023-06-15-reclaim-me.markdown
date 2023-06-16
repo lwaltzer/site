@@ -5,7 +5,7 @@ date:   2023-06-16 10:00:00 -0400
 categories: ed tech
 ---
 
-*[Reclaim Open](https://reclaimopen.com/s) made me fire up a blog.*
+*[Reclaim Open](https://reclaimopen.com/s) made me fire up a new blog.*
 
 I was fortunate to spend three days in Virginia last week reconnecting with old friends and colleagues and reflecting on the state of educational technology, the university system, and our respective places within all this. The last time I was at the University of Mary Washington was over a decade ago, when I attended [Faculty Academy in 2012](https://eagleeye.umw.edu/2012/05/17/faculty-academy-showcases-teaching-and-learning-technologies/), playing with 3d printers, circuit boards,  and friends and fellow travelers who were drawn to the jam by the magnetic work of UMW's [Division of Teaching and Learning Technologies](http://umwdtlt.com/dtlt-blog/).
 
