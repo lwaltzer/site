@@ -27,3 +27,9 @@ img[src*='#center'] {
     display: block;
     margin: auto;
     }
+
+span.caption {
+    font-size: 80%;
+    font-style: italic;
+    display: flex;
+    justify-content: center }

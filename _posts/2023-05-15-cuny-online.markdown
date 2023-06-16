@@ -4,7 +4,7 @@ title:  "CUNY Online"
 date:   2023-05-15 19:00:00 -0400
 categories: [CUNY, ed tech, pedagogy]
 ---
-*these remarks were given on a panel discussion hosted by PSC-CUNY on May 15*
+*These remarks were given on a panel discussion hosted by PSC-CUNY on May 15*
 
 Like many of you, I'm concerned about CUNY Online, about the speed of its development, and about what it means for the identity of the university going forward.
 

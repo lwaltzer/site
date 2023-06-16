@@ -670,4 +670,11 @@ img[src*="#center"] {
   margin: auto;
 }
 
+span.caption {
+  font-size: 80%;
+  font-style: italic;
+  display: flex;
+  justify-content: center;
+}
+
 /*# sourceMappingURL=main.css.map */
