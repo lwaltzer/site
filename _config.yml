@@ -24,7 +24,7 @@ author: Luke Waltzer
 description: >- # this means to ignore newlines until "baseurl:"
   This is Luke Waltzer's website and blog
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://lukewaltzer.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lwaltzer
 github_username:  lwaltzer
 mastodon_username: lukewaltzer@hcommons.social
