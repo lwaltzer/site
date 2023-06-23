@@ -26,6 +26,7 @@
 img[src*='#center'] {
     display: block;
     margin: auto;
+    width: 125px;
     }
 
 span.caption {
@@ -44,4 +45,8 @@ span.caption {
 
 .footer-col-3 p {
   margin-bottom: 0;
+}
+
+.footer-col-wrapper {
+    text-align: center;
 }
