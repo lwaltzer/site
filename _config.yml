@@ -32,7 +32,6 @@ mastodon_username: lukewaltzer@hcommons.social
 theme: minima
 plugins:
 - jekyll-feed
-- jekyll-pdf-embed
 
 show_excerpts: true
 
