@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CV
+title: Curriculam Vitae
 permalink: /cv/
 ---
 
-![Under Construction](/assets/images/under-construction90s-90s.gif#center)
+{% pdf "/assets/images/cv.pdf" no_link %}

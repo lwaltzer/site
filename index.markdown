@@ -4,7 +4,6 @@
 
 layout: page
 ---
-<img align="right" width="300" height="300" src="/assets/images/coverphoto.jpg">
 
 I am the director of the [Teaching and Learning Center](https://cuny.is/teaching) and a member of the doctoral faculty at the [CUNY Graduate Center](http://gc.cuny.edu). Trained as a historian, I wrote a dissertation about the discourse around American adolescence in the years following World War II. My current research interests include college-level pedagogy, educational technology, open education, and critical university studies.
 

@@ -25,14 +25,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is Luke Waltzer's website and blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lukewaltzer.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: lwaltzer
 github_username:  lwaltzer
 mastodon_username: lukewaltzer@hcommons.social
 
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
+- jekyll-feed
+- jekyll-pdf-embed
 show_excerpts: true
 
 # Disqus Comments
@@ -40,6 +40,8 @@ disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
     shortname: luke-waltzer
+
+  
 
 # Exclude from processing.
 # The following items will not be processed, by default.
