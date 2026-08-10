@@ -5,7 +5,7 @@
 layout: page
 ---
 
-I am the director of the [Teaching and Learning Center](https://cuny.is/teaching) and a member of the doctoral faculty at the [CUNY Graduate Center](https://www.gc.cuny.edu/). My current research interests include college-level pedagogy, educational technology, open education, and critical university studies.
+I am the director of the [Teaching and Learning Center](https://cuny.is/teaching), a member of the doctoral faculty at the [CUNY Graduate Center](https://www.gc.cuny.edu/), and Co-Founder of the [CUNY AI Lab](https://ailab.gc.cuny.edu/). My research interests include college-level pedagogy, educational technology, open education, and critical university studies.
 
 I design [institutes](https://tlc.commons.gc.cuny.edu/tlc-institutes/), develop [workshops](https://tlcworkshoparchive.commons.gc.cuny.edu/) and [interdisciplinary courses](https://critedtechsp23.commons.gc.cuny.edu/), and teach and advise students in the [Interactive Technology and Pedagogy Certificate Program](https://www.gc.cuny.edu/interactive-technology-and-pedagogy) and the [M.A. Program in Digital Humanities](https://www.gc.cuny.edu/digital-humanities). I direct the [Critical AI Literacy Institute](http://cuny.is/criticalai), developed the [STEM Pedagogy Institute](http://cuny.is/spi), co-direct the [CUNY Humanities Alliance](https://cunyhumanitiesalliance.org/), and serve as Director of Community Projects for the [CUNY Academic Commons](http://cuny.is).  
 
